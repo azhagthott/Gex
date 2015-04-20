@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gex</string>
+    <string name="gex_def">Sistema de Gestion de Exec</string>
+
+    <!-- menu options action -->
+    <string name="action_settings">Configuracion</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_quit">Salir</string>
+    <string name="action_disconnect">Cerrar Sesion</string>
+
+    <!-- Exec text -->
+    <string name="gex_sub_title">EXEC: Servicios en Tecnologia de Informacion</string>
+    <string name="title_activity_main">GEX: Sistema de Gestion de Exec</string>
+
+    <!-- drawer menu text -->
+    <string name="title_section_main">Principal</string>
+    <string name="title_section_statistic">Metricas/Estadisticas</string>
+    <string name="title_section_others">Otros</string>
+
+    <!-- drawer text -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+    <!-- fragment text -->
+    <string name="fragment_1">test text 1</string>
+    <string name="fragment_2">test text 2</string>
+    <string name="fragment_3">test text 3</string>
+
+</resources>
